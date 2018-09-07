@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 前言
 
 [README in English](README-en.md)
@@ -319,3 +320,7 @@ npm run dev
 # License
 
 [GPL](https://github.com/bailicangdu/vue2-elm/blob/master/COPYING)
+=======
+# shopp
+购物车
+>>>>>>> d56da11a1b9e15dea5beeb8b13bbca1081901d66
